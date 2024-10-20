@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2014<br>📚 I'm currently learning ML<br>🎯 Goals: None of your business<br>🎲 Fun fact: Building tech is an Emotion only enthusiast can understand.</p>
+<p align="left">✨ Creating bugs since 2014<br>📚 I'm currently learning ML<br>🎯 Goals: None of anyone's business<br>🎲 Fun fact: Building tech is an Emotion only enthusiast can understand.</p>
 
 ###
 
