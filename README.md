@@ -1,5 +1,3 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
 
 ###
 
@@ -95,13 +93,7 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Pawan89844/count.svg?"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pawan89844&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
