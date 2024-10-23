@@ -1,16 +1,5 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
-
-<p align="left">My name is Pawan and I'm a Tech Enthusiast, since School Days.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2014<br>📚 I'm currently learning ML<br>🎯 Goals: None of anyone's business<br>🎲 Fun fact: Building tech is an Emotion only enthusiast can understand.</p>
 
 ###
 
